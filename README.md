@@ -18,25 +18,35 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-**Languages:**  
-`Python` &nbsp; `Java` &nbsp; `C` &nbsp; `SQL`
+### 👨‍💻 Languages & DSA
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data Science & ML:**  
-`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Seaborn` &nbsp; `scikit-learn`
+### 📊 Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Backend:**  
-`Flask` &nbsp; `Firebase` &nbsp; `REST APIs`
+### 🖥️ Backend Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Database:**  
-`MySQL` &nbsp; `SQLite`
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Cloud & DevOps:**  
-`AWS (Basics)` &nbsp; `Deployment`
-
-**Tools:**  
-`Git` &nbsp; `GitHub` &nbsp; `Postman` &nbsp; `VS Code` &nbsp; `Jupyter`
+### 🛠️ Tools
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
