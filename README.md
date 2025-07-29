@@ -1,20 +1,28 @@
-<h1 align="center">Hey there, I'm Tushar 👋</h1>
+<p align="center">
+  <img src="Tushar_Banner.png" alt="Tushar's GitHub Banner" width="100%" />
+</p>
+
+<h1 align="center">Hey there 👋, I'm Tushar!</h1>
 
 <p align="center">
-  🚀 Aspiring Data Scientist & Backend Developer <br>
-  🎓 B.Tech CSE (Data Science) | 🐍 DSA in Python (LeetCode, 100 Days Badge) <br>
-  🤖 ML & Backend | ☁️ AWS | 💾 SQL | 🔧 Clean Code Enthusiast
+  🎓 B.Tech CSE (Data Science) Student at <strong>Techno Main Salt Lake</strong>  
+  <br>
+  💻 Passionate about AI, Backend Dev, and Analytics  
+  <br>
+  🚀 Constantly learning, building, and collaborating  
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧠 About Me
 
-- 👨‍🎓 Pursuing B.Tech in Computer Science & Engineering (Specialization in Data Science) from **Techno Main Salt Lake**
-- 💡 Passionate about solving real-world problems with **data, scalable systems**, and **ML**
-- 🔁 Regularly solving **DSA problems in Python** on **LeetCode** (🏅 100 Days of Code badge)
-- 🛠️ Interested in **Backend Development**, **Cloud Integration**, and **Applied Machine Learning**
-- 📚 Strong foundation in **DBMS**, **OOP**, and **System Design Basics**
+- 🔭 I'm currently working on ML projects like price prediction, mental health support systems, and multilingual chatbots  
+- 🌱 Learning advanced DSA, system design, and AI model optimization  
+- 💡 Participated and won hackathons including SIH Internals and Tech Fests  
+- 📊 Exploring Power BI, Firebase, Flask APIs, and AWS Cloud  
+- ✍️ I also blog about data analytics and tech on [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 💬 Ask me about backend development, AI pipelines, or data visualization  
+- ⚡ Fun Fact: I proposed my girlfriend on May 7th ❤️ (a date I’ll never forget)
 
 ---
 
@@ -50,15 +58,15 @@
 
 ---
 
-### 📫 Connect with Me
+## 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/tusharkamaldeo)
-- [Instagram](https://www.instagram.com/tushar_.bharti/)
-- ✉️ Email: tushar978777@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" width="47%" />
+</p>
 
 ---
 
+### 🔗 Connect With Me
 
-### 📊 GitHub Stats
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
