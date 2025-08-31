@@ -52,7 +52,7 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/tusharkamaldeo)
+- [LinkedIn]([https://www.linkedin.com/in/tusharkamaldeo](https://www.linkedin.com/in/bharti-tushar-k-7aaaa0286/))
 - [Instagram](https://www.instagram.com/tushar_.bharti/)
 - ✉️ Email: tushar978777@gmail.com
 
